@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.irth.heritage",
+    "sha256_cert_fingerprints": ["85:76:AF:43:80:04:EB:FE:68:93:F8:D5:CE:48:16:34:42:7A:C9:44:37:95:21:70:09:82:40:8A:36:FE:6A:21"]
+  }
+}]
