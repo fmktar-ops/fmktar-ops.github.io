@@ -1,12 +1,17 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.irth.heritage",
-    "sha256_cert_fingerprints": [
-      "C0:CD:2E:6A:B4:1A:CA:18:96:84:B1:39:8F:04:05:F4:DE:1F:3D:31:35:A2:6B:5D:5C:4E:D3:9D:3E:80:2D:B2",
-      "0D:3A:FC:B8:EB:85:8C:81:2A:45:6B:9A:BD:58:50:8F:6D:09:51:56:7D:42:DC:64:43:90:5E:AE:23:E3:B9:51",
-      "85:76:AF:43:80:04:EB:FE:68:93:F8:D5:CE:48:16:34:42:7A:C9:44:37:95:21:70:09:82:40:8A:36:FE:6A:21"
-    ]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.irth.heritage",
+      "sha256_cert_fingerprints": [
+        "8B:A0:C2:6A:B9:77:11:E0:9D:6D:5C:1C:1A:DA:4A:7E:89:58:14:43:0A:64:D7:22:3E:CF:B8:46:7D:2F:BF:F4",
+        "C0:CD:2E:6A:B4:1A:CA:18:96:84:B1:39:8F:04:05:F4:DE:1F:3D:31:35:A2:6B:5D:5C:4E:D3:9D:3E:80:2D:B2",
+        "0D:3A:FC:B8:EB:85:8C:81:2A:45:6B:9A:BD:58:50:8F:6D:09:51:56:7D:42:DC:64:43:90:5E:AE:23:E3:B9:51",
+        "85:76:AF:43:80:04:EB:FE:68:93:F8:D5:CE:48:16:34:42:7A:C9:44:37:95:21:70:09:82:40:8A:36:FE:6A:21"
+      ]
+    }
   }
-}]
+]
